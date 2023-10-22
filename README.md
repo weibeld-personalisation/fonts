@@ -4,12 +4,12 @@ Some free fonts that are not installed by default on macOS and that I used for v
 
 ## Font families
 
-| Font                         | Source                                               | Specific usage |
-|:-----------------------------|:-----------------------------------------------------|:---------------|
-| [Hit me, punk!](hit-me-punk) | https://www.dafont.com/hit-me-punk.font              | Beer labels    |
-| [Inter](inter)               | https://fonts.google.com/specimen/Inter?query=inter  | —              |
-| [Ubuntu](ubuntu)             | https://fonts.google.com/specimen/Inter?query=ubuntu | —              |
-| [Rubik](rubik)               | https://fonts.google.com/specimen/Inter?query=rubik  | —              |
+| Font                         | Source                                   | Specific usage |
+|:-----------------------------|:-----------------------------------------|:---------------|
+| [Hit me, punk!](hit-me-punk) | https://www.dafont.com/hit-me-punk.font  | Beer labels    |
+| [Inter](inter)               | https://fonts.google.com/specimen/Inter  | —              |
+| [Ubuntu](ubuntu)             | https://fonts.google.com/specimen/Ubuntu | —              |
+| [Rubik](rubik)               | https://fonts.google.com/?query=rubik    | —              |
 
 ## Installation
 
